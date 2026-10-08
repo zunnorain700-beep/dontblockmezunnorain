@@ -1,0 +1,8 @@
+{
+  "name": "dont-block-me",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
